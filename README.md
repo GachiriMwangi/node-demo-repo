@@ -1,2 +1,2 @@
 # node-demo-repo
-A simple node program
+A simple node program.
